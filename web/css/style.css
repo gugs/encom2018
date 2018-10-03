@@ -98,6 +98,25 @@ a:focus, a:hover {
    Color: #fff; */
 }
 
+.button-generic
+{
+  background-color: #c70050;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.button-generic:hover
+{
+  
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
 #maps
 {
   width: 520px;
@@ -1288,12 +1307,12 @@ ul#lightGallery {
     text-shadow: 2px 1px black;
   font-family: 'Arimo', sans-serif;
     font-weight: 300;
-    
+    /*background-color:*/
     /**
-    * background-color:
-    * My teste
     *
-    */
+    *
+    *
+    */ 
 }
 .w3-agile-team-img-head i {
     color: rgba(0,73,125,1);
