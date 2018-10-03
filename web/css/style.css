@@ -1288,7 +1288,12 @@ ul#lightGallery {
     text-shadow: 2px 1px black;
   font-family: 'Arimo', sans-serif;
     font-weight: 300;
-    background-color: 
+    
+    /**
+    * background-color:
+    * My teste
+    *
+    */
 }
 .w3-agile-team-img-head i {
     color: rgba(0,73,125,1);
